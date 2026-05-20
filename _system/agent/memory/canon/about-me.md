@@ -1,16 +1,38 @@
+---
+last-updated: 2026-05-19
+---
+
 # About me
 
-Edit this file to teach your agent who you are. Anything in `canon/` should be treated as ground truth.
+## Identity
 
-## Example fields to fill in
+- Name: Britney Duffy
+- GitHub: bduffy089
+- Primary public presence: LinkedIn
 
-- Name
-- Role
-- Company or project
-- What you're working on right now
-- Who your audience is (for content) or who your customers are (for ops)
-- Public profiles the agent can reference (LinkedIn, X, GitHub)
+## What I'm working on
 
-## Operator notes
+- Tooling and content around AI agent operations, focused on agents that run on plain markdown files
+- This repo: `agent-vault-starter`, a starter vault for running AI agents on your own files
+- Ongoing LinkedIn series on agent infrastructure, context engineering, and the boring substrate that makes agents reliable
 
-Replace this entire file with your own. Keep it short. Atomic. The agent will read this every session.
+## Audience
+
+- AI builders and operators running agents in production
+- PKM practitioners curious about agent integration
+- Engineering leaders evaluating practical agent patterns
+
+## Operating principles
+
+- Generosity over gatekeeping when sharing knowledge
+- Receipts over resume: ship publicly, link the work
+- Boring infrastructure beats novel frameworks
+- Files outlast tools
+- One idea per file, one decision per file
+
+## What to never assume
+
+- That I want a CTA on every post. Most posts should just teach.
+- That I'm pitching a product. I'm not, right now.
+- That I want more tools. I want simpler tools.
+- That a longer post is a better post. Tight beats thorough.
