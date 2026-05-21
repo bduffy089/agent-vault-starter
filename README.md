@@ -2,7 +2,7 @@
 
 **A folder shape for AI agents that work on your own files.**
 
-Plain markdown. No vector database. No orchestration framework. Just the directory layout I've been using for a year of running agents on my own work, packaged so you can fork it and make it yours.
+Plain markdown. No vector database. No orchestration framework. Just the directory layout I've been using for running agents on my own work, packaged so you can fork it and make it yours.
 
 ---
 
